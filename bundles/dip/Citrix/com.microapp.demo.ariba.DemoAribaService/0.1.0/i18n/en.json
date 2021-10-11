@@ -2,7 +2,6 @@
   "038c21ca-5203-422a-9cb9-a01d4992e8dc" : {
     "08743737-0541-4970-ac87-7ff5faac2111" : "Updated",
     "3f1c9425-d64c-4855-a9d5-bcc9dd4cb66f" : "Approve",
-    "40b8c321-5bd7-42da-8d92-93908f989323" : "Requester Name",
     "3f903319-c51d-48d1-b1eb-767b37c4f64c" : "New purchase requisition {{requisition_id}} \"{{approver_requisition_id_r.title}}\" with a total value of {{format approver_requisition_id_r.total_cost_amount \"integer\"}} {{approver_requisition_id_r.total_cost_currency}} awaits your approval.",
     "69198238-70e4-4d86-990b-37268dff375f" : "{{unique_name}} - {{title}}",
     "8a6f0bd5-6221-4b7b-a499-0b82654ee062" : "Price",
