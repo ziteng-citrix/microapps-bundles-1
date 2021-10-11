@@ -1,6 +1,5 @@
 {
   "db1732a5-139f-4ab0-a1fe-33ca2c386576": {
-    "fc6f3245-19eb-477f-ac1e-6d3d40058569": "Changement d'état de la demande",
     "af1257c3-3d98-4f5b-8642-c1b7d62de4d3": "Demande créée",
     "9a8c9d52-16ba-40d3-985f-57ca46b6b02e": "{{requisition_id}} - {{approver_requisition_id_r.title}}",
     "ad7db306-b65c-4d2a-a803-86f2b3d7f818": "{{format cost_amount \"integer\"}} {{currency}}",
