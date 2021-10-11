@@ -11,7 +11,6 @@
     "fda1aa43-2f49-4c75-bf2f-de42705c59c6" : "Requisition Created",
     "feb55ce9-a6e4-4888-9021-215f478562cb" : "New Purchase Requisition",
     "5975a31d-925d-4086-8a61-499576b00726" : "Supplier",
-    "0676ba92-e9f9-4004-8a83-6e7987fbbe81" : "{{format total_cost_amount \"integer\"}} {{total_cost_currency}}",
     "f37cf02c-72f7-4647-aaf1-32f0801a83cc" : "Name",
     "240eddc4-20b9-442e-b8e9-6ca0536bc159" : "Requisition Change",
     "bceaa741-a85e-48b9-bbbe-9eaeab3466ee" : "{{format total_cost_amount \"integer\"}} {{total_cost_currency}}",
