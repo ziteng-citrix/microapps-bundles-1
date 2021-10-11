@@ -11,8 +11,6 @@
     "1402ebff-4641-4604-9cc8-c3f06413073d": "Adresse e-mail",
     "e7e48dca-5a0d-458e-a4f4-14a73437ce5d": "Prix",
     "82d86bae-8efa-4f47-a1a1-1a29c318d6f3": "La nouvelle demande d'achat {{requisition_id}} \"{{approver_requisition_id_r.title}}\" d'une valeur totale de {{format approver_requisition_id_r.total_cost_amount \"integer\"}} {{approver_requisition_id_r.total_cost_currency}} est en attente de votre approbation.",
-    "8d625009-bca3-44dd-925f-5eb258c2238f": "Coût total",
-    "509ed41b-b6b7-48e7-9001-d6f1c88fbf32": "Fournisseur",
     "5a1eb4d7-0740-414e-bdf2-51385bd3214e": "{{format approver_requisition_id_r.total_cost_amount \"integer\"}} {{approver_requisition_id_r.total_cost_currency}}",
     "aeed4e19-1a35-4c40-bdfd-041a3f02574f": "Approbation des demandes",
     "7199959d-95b0-452e-aa59-9b4de770cbe9": "Quantité",
