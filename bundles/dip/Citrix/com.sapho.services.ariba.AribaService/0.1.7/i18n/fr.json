@@ -4,7 +4,6 @@
     "af1257c3-3d98-4f5b-8642-c1b7d62de4d3": "Demande créée",
     "9a8c9d52-16ba-40d3-985f-57ca46b6b02e": "{{requisition_id}} - {{approver_requisition_id_r.title}}",
     "ad7db306-b65c-4d2a-a803-86f2b3d7f818": "{{format cost_amount \"integer\"}} {{currency}}",
-    "b6cb215a-f89c-4d0b-8b4a-d703831f9801": "Modification de la demande",
     "80932871-4417-45c8-8a21-a1ab2bb7a8b5": "État",
     "181bc99e-54ae-4bde-a1b8-6d88c5a53a25": "État",
     "91f3e992-2ff1-4a16-826b-670453b85268": "Approuver",
